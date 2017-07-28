@@ -173,45 +173,34 @@ char qj_fix(char ch)
   {
     case '`':
     return '0';
-    break;
 
     case 'b':
     return '1';
-    break;
-
+    
     case 'd':
     return '2';
-    break;
 
     case 'f':
     return '3';
-    break;
 
     case 'h':
     return '4';
-    break;
 
     case 'j':
     return '5';
-    break;
 
     case 'l':
     return '6';
-    break;
 
     case 'n':
     return '7';
-    break;
 
     case 'p':
     return '8';
-    break;
-
+    
     case 'r':
     return '9';
-    break;
 
-    
   }
 }
 
