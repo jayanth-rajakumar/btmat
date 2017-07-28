@@ -1,8 +1,4 @@
-﻿---
-title: btmat Documentation
----
-
-![cover photo](https://raw.github.com/jayanth-rajakumar/btmat/master/docs/coverphoto.jpg)
+﻿![cover photo](https://raw.github.com/jayanth-rajakumar/btmat/master/docs/coverphoto.jpg)
 
 
 ## Introduction
@@ -11,7 +7,7 @@ The goal of this project is to create a device to connect an Android phone to a 
 
 More information will be added here in the future. For now, here is the schematic:
 
-![cover photo](https://raw.github.com/jayanth-rajakumar/btdmat/master/docs/schematic.png)
+![cover photo](https://raw.github.com/jayanth-rajakumar/btmat/master/docs/schematic.png)
 
 For the Arduino code, click the Download .Zip button at the top of this page.
 
